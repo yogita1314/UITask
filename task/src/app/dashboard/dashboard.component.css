@@ -1,0 +1,80 @@
+*{
+  font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.example-container {
+    width: 500px;
+    height: 300px;
+    border: 1px solid rgba(0, 0, 0, 0.5);
+  }
+  
+  .example-sidenav-content {
+    display: flex;
+    height: 100%;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .example-sidenav {
+    padding: 20px;
+  }
+
+  :host {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+  }
+  
+  .demo-section {
+    margin-top: -10px;
+    margin-right:80px;
+  }
+
+  .search{
+    color: rgb(163, 98, 206);
+  }
+  .sec1{
+    background-color: rgba(255, 192, 203, 0.432);
+    border-radius: 15px;
+  }
+  #box1{
+    border-radius: 15px;
+  }
+  #box2{
+    border-radius: 15px;
+  }
+  .t1{
+    color: palevioletred;
+  }
+  .t2{
+    color: rgb(96, 56, 161);
+  }
+  .card1{
+    background-color: rgb(86, 37, 114);
+    border-radius: 10px;
+  }
+  .b1{
+    background-color: rgba(250, 130, 170, 0.26);
+    border-radius: 15px;
+  }
+  .card2{
+    background-color: rgba(69, 155, 212, 0.733);
+    border-radius: 10px;
+  }
+  .b2{
+    background-color: rgba(86, 37, 114, 0.144);
+    border-radius: 15px;
+  }
+  .card3{
+    background-color: rgba(250, 130, 170, 0.856);
+    border-radius: 10px;
+  }
+  .b3{
+    background-color: rgba(212, 69, 112, 0.459);
+    border-radius: 15px;
+  }
+  .t3{
+    margin-top: -22px;
+  }
+  .b4{
+    border-radius: 15px;
+  }
